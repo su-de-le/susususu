@@ -1,4 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","scripts.test_login.TestLogin.test_login2","25",""
-"failed","scripts.test_login.TestLogin.test_login3","25",""
-"passed","scripts.test_login.TestLogin.test_login1","21",""
